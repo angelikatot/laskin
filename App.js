@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    justifyContent: 'center', // Center content vertically
+    justifyContent: 'center',
   },
   calculatorContainer: {
     flex: 1,
@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
   },
   historyContainer: {
     flex: 1,
-    alignItems: 'center', // Center horizontally
+    alignItems: 'center',
   },
   historyTitle: {
     fontSize: 24,
